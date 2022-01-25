@@ -1,5 +1,5 @@
 <script>
-    export let id;
+    // export let id;
     export let title;
     export let location;
     export let googleMapsUrl;
@@ -42,9 +42,6 @@
         display: flex;
         align-items: center;
         gap: 1.7rem;
-    }
-
-    .info {
     }
 
     hr {
