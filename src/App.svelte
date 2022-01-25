@@ -1,6 +1,6 @@
 <script>
     import data from './data';
-    import Navbar from './components/navbar.svelte';
+    import Navbar from './components/Navbar.svelte';
     import Main from './components/Main.svelte';
 </script>
 
