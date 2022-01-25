@@ -1,0 +1,5 @@
+/node_modules/
+/public/build/
+screenshot.jpg
+.DS_Store
+package-lock.json
