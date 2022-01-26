@@ -91,7 +91,7 @@ npm run dev
 
 -   Website - [kevinmok.com](https://kevinmok.com)
 -   GitHub - [@kevmok](https://www.github.com/Kevmok)
--   Twitter - [@lkBoxer](https://www.github.com/lkBoxer)
+-   Twitter - [@hustlerBoxer](https://twitter.com/hustlerBoxer)
 
 ## Acknowledgements
 
