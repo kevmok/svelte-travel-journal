@@ -12,6 +12,10 @@ User should be able to:
 -   [x] Change the "API" data and modify the components generated
 -   [x] Add more travel locations
 
+### Demo
+
+[Website Demo](https://svelte-travel-journal.vercel.app/)
+
 ## Screenshot
 
 ![App Screenshot](https://i.imgur.com/2AIplBD.jpg)
