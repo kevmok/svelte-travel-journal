@@ -76,7 +76,7 @@ const travelData = data.map((item) => {
 Clone this repository and install the dependencies...
 
 ```bash
-  git clone https://github.com/kevmok/svelte-developer-card.git my-app
+  git clone https://github.com/kevmok/svelte-travel-journal.git my-app
   cd my-app
   npm install
 ```
